@@ -16,7 +16,7 @@ PRODUCTION NOTES:
 
 CHARACTERS:
 - Techne: A philosopher who believes humanity is controlled by technology
-- Historia: A historian studying the effect of technology  
+- Historia: A historian studying the effects of technology  
 - Futurus: An optimist who sees technology as a way into the future
 - Seni: A mechanical engineering student studying progress
 
@@ -380,8 +380,8 @@ Economics, vol. 6, no. 4, 2001, pp. 516–521.
 
 Huxley, Aldous. Brave New World. HarperCollins, 1932.
 
-Lynch, William. "Engineering Practice and Engineering Ethics." Science and 
-Engineering Ethics.
+Lynch, William T. "Engineering Practice and Engineering Ethics." Science and 
+Engineering Ethics, vol. 3, no. 3, 1997, pp. 331-344.
 
 National Archives. "The Atomic Bombing of Hiroshima and Nagasaki." National 
 Archives Museum, 26 Aug. 2020.
