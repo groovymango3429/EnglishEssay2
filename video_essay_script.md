@@ -29,11 +29,13 @@ The most uncomfortable realization? I discovered I had been using emotional mani
 
 The real learning happened in the revision cycles. I used to treat first drafts as final drafts with light editing. This course forced me to actually revise—not just proofread, but rethink. The feedback I received on my inquiry dialogue made me realize I was writing to fill space, not to explore ideas.
 
-Here's a specific example: In my inquiry dialogue, I originally wrote a question that I already knew the answer to. The feedback pointed out that I wasn't actually inquiring—I was just performing inquiry. So I went back and asked a question I genuinely didn't know the answer to: "How do visual elements in digital media shape arguments in ways that text alone cannot?"
+Here's a specific example: In my inquiry dialogue, I originally wrote a question that I already knew the answer to. The feedback pointed out that I wasn't actually inquiring—I was just performing inquiry. 
+
+So I went back and asked a question I genuinely didn't know the answer to: "How do visual elements in digital media shape arguments in ways that text alone cannot?"
 
 [Visual: Show contrast between original and revised question]
 
-This shift was uncomfortable. Real inquiry means admitting uncertainty. But that's also when I started to notice things I'd never seen before—how Instagram posts use image sequencing to build arguments, how memes compress complex political rhetoric into shareable formats. I didn't find complete answers, but I developed better questions, and I think that might be more valuable.
+This shift was uncomfortable. Real inquiry means admitting uncertainty. But that's also when I started to notice things I'd never seen before. I began observing how Instagram posts use image sequencing to build arguments, how memes compress complex political rhetoric into shareable formats. I didn't find complete answers, but I developed better questions, and I think that might be more valuable.
 
 The habit I've picked up is this: pause before making a claim and ask, "Can I actually support this, or does it just feel true?" That's been surprisingly hard to maintain, but I catch myself more often now.
 
@@ -63,7 +65,7 @@ These aren't just writing lessons. They're thinking lessons. And that's what I'm
 
 ---
 
-**Total Word Count:** ~850 words (approximately 5 minutes at natural speaking pace)
+**Total Word Count:** ~802 speaking words (approximately 5 minutes at natural speaking pace of 160 words per minute)
 
 **Notes for Recording:**
 - Use pauses for emphasis at key moments
