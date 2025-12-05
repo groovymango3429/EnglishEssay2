@@ -1,0 +1,419 @@
+Patrick Wright
+Professor Taylor
+English 1030.49
+2 November 2025
+
+VIDEO ESSAY SCRIPT: The Definition of 'Progress' - A Dialogue on Technological Promise
+
+=====================================================================
+PRODUCTION NOTES:
+- Runtime: Approximately 8-10 minutes
+- Format: Animated dialogue with visual elements
+- Characters should be visually distinct and represent their perspectives
+- Key quotes and concepts should appear as text overlays
+- Transition between scenes should be smooth with fade effects
+=====================================================================
+
+CHARACTERS:
+- Techne: A philosopher who believes humanity is controlled by technology
+- Historia: A historian studying the effects of technology  
+- Futurus: An optimist who sees technology as a way into the future
+- Seni: A mechanical engineering student studying progress
+
+=====================================================================
+
+[OPENING SCENE]
+
+VISUAL: Fade in to a university library at night. Warm lighting from desk lamps. 
+Camera pans across bookshelves filled with philosophy and technology texts.
+
+MUSIC: Subtle ambient track building curiosity
+
+TEXT OVERLAY: "The Definition of Progress"
+TEXT OVERLAY: "A Dialogue on Technological Promise"
+
+[SCENE 1: THE GATHERING]
+
+VISUAL: Four characters gather around a large wooden table. Techne sits by a window 
+reading papers. Historia enters carrying documents. Futurus has a tablet displaying 
+digital artwork. Seni spreads out engineering textbooks.
+
+SENI: 
+[Looking around at the group]
+Thanks for meeting me here everyone. Recently I've pondered a question that seems 
+simple, but could have vast consequences. 
+
+[Pause for emphasis]
+
+Is technological progress always progress? 
+
+[Camera focuses on Seni's face]
+
+As a student entering mechanical engineering, I must understand this question in 
+order to build my future in technology.
+
+VISUAL: Quick montage of technological innovations - smartphones, robots, AI, 
+social media
+
+[SCENE 2: THE TECHNOLOGICAL DETERMINISM PERSPECTIVE]
+
+TECHNE:
+[Sets down papers, leans forward]
+Your question assumes that technology is something we control. What if the opposite 
+is true? What if technology is what makes up our society, transforming people and 
+things into resources that are simply being optimized?
+
+VISUAL: Show abstract imagery of people becoming cogs in a machine, data streams
+
+TEXT OVERLAY: "Technological Determinism"
+TEXT OVERLAY: "Does technology control us?"
+
+TECHNE: 
+The Atlantic's essay on technology's effect on the way we think explains this well.
+
+FUTURUS:
+[Interrupting, slightly agitated]
+You sound hopeless. Surely you're not suggesting we should abandon technology and 
+innovation, right?
+
+TECHNE:
+[Calmly]
+Not at all, Futurus. As tech critics have explained, technology develops at its 
+own pace, developing faster than we can ethically determine the effects. Once 
+something becomes possible, it becomes likely.
+
+VISUAL: Timeline showing rapid technological advancement versus slower ethical 
+frameworks
+
+[SCENE 3: TECHNOLOGY EMBODIES HUMAN CHOICES]
+
+HISTORIA:
+[Standing, placing documents on table]
+I understand your point, Techne, but I think you're missing something key. I 
+believe technology doesn't have its own momentum. Instead, technology embodies 
+human choices.
+
+VISUAL: Historical images appear - Robert Moses bridges, urban planning
+
+HISTORIA:
+For example, in the 1920s an urban planner, Moses, decided to build low-height 
+bridges in New York to keep buses out of certain neighborhoods, therefore excluding 
+lower-income people.
+
+SENI:
+[Intrigued]
+So you're saying technology carries politics within it?
+
+HISTORIA:
+Exactly.
+
+[Walks around table, gesturing]
+
+Consider the atomic bomb in Hiroshima. This device represented a scientific 
+breakthrough, a milestone in physics and engineering. However, it also meant an 
+unthinkable amount of human death and suffering.
+
+VISUAL: Split screen - atomic mushroom cloud / agricultural fields
+
+HISTORIA:
+Let's also look at agriculture. We solved food scarcity in many parts of the 
+world, but we must now experience the effects of environmental pollution and 
+devastation as a result.
+
+TEXT OVERLAY: "Technology is Political"
+TEXT OVERLAY: "Every tool carries human values"
+
+[SCENE 4: THE OPTIMISTIC VISION]
+
+FUTURUS:
+[Stands up, passionate]
+You strike me as a pessimist, Historia. You're focusing on just the failures. 
+What about the towns and communities that use technology for liberation?
+
+VISUAL: Vibrant imagery of Afrofuturist art, diverse communities using technology
+
+FUTURUS:
+Afrofuturism itself shows that technology can be used to describe and advance 
+cultures, defining people as we know them. Afrofuturism allows people to reimagine 
+the history of African Americans and create a future where they thrive.
+
+[Gestures with tablet showing artwork]
+
+Technology like this can be used to build a better future for civilization.
+
+TEXT OVERLAY: "Technology as Liberation"
+
+[SCENE 5: DYSTOPIAN WARNINGS]
+
+TECHNE:
+[Thoughtfully]
+I admire your vision for a better future. However, imagination itself doesn't 
+change power relationships. In the novel Brave New World, Huxley shows that by 
+removing pain and suffering, you can strip a person of their individuality.
+
+VISUAL: Animated scenes from Brave New World - controlled society
+
+TECHNE:
+This is a perfect example of how optimization and efficiency can be transformed 
+into oppression.
+
+FUTURUS:
+[Countering]
+That's a great example, but Huxley wrote a dystopian fiction book, not a prophecy. 
+As a counterpoint, the show Black Mirror presents scenarios like "Nosedive," where 
+each person has an alterable social rating.
+
+VISUAL: Clips or animated recreation of Black Mirror's Nosedive episode
+
+FUTURUS:
+These scenarios are warnings about what might happen if we quantify personality 
+and individuality, but they're not inevitabilities.
+
+[SCENE 6: THE INTERSECTION]
+
+HISTORIA:
+[Bringing the arguments together]
+That's where these two sides - pessimistic and optimistic - intertwine. The 
+Amnesty International report on AI surveillance shows this perfectly.
+
+VISUAL: Split screen showing facial recognition used for good/bad purposes
+
+HISTORIA:
+Technology like facial recognition could be used to find missing children OR to 
+enforce an authoritarian regime. The technology itself is neutral, but the way 
+we use it isn't.
+
+[Shows research paper]
+
+Research published in Science and Engineering Ethics confirms that tech systems 
+embed the biases of their creators.
+
+TEXT OVERLAY: "Technology reflects its creators"
+
+TECHNE:
+[Pushing back]
+But circling back to what I said initially - can we truly say technology is 
+neutral when it develops faster than our ethics? As The Guardian notes, AI is 
+advancing at a rate that makes it impossible to regulate, carrying us forward 
+no matter our intentions.
+
+[SCENE 7: THE SYNTHESIS BEGINS]
+
+VISUAL: Camera pulls back to show all four characters, lighting shifts to suggest 
+a breakthrough moment
+
+MUSIC: Changes to more hopeful, contemplative tone
+
+SENI:
+[Reflective, looking at each character]
+After listening to all three of you, I started to realize something.
+
+[Pause]
+
+Techne, you're right that technology shapes how we see the world. Historia, you 
+proved that technologies and artifacts carry political meanings, solving problems 
+while generating new ethical dilemmas. Futurus, you showed me that human 
+imagination matters and that we can imagine empowering futures instead of 
+dystopian ones.
+
+FUTURUS:
+[Smiling]
+It seems like you're starting to understand that no one really knows THE answer.
+
+SENI:
+That's true. It seems my question was flawed from the very beginning. 
+
+TEXT OVERLAY: "Progress for whom, and defined by what values?"
+
+SENI:
+The real question should be: "Progress for whom, and defined by what values?" 
+This question considers that technology isn't inherently bad but is instead 
+shaped by human choices and imaginations.
+
+[SCENE 8: PRACTICAL IMPLICATIONS]
+
+HISTORIA:
+[Leaning forward]
+That's a better question, but how will it help you in real-life scenarios? 
+You'll be creating these technologies as a mechanical engineer.
+
+SENI:
+[Animated, excited by the realization]
+Great question. It means I must ask different questions when developing a 
+product or solution. Not just "Can we build this?" but also "Who benefits and 
+who doesn't?"
+
+VISUAL: Engineering blueprints transforming to include ethical considerations
+
+SENI:
+Bridges, atomic bombs, and industrial agriculture weren't created by evil people. 
+They were created by curious people trying to do the right thing.
+
+TECHNE:
+[Nodding]
+You're starting to understand how technology enframes society as a whole. 
+Technology shows the world to people through a framework that we must remain 
+vigilant of, rather than accepting it as natural.
+
+SENI:
+Yes, and it got me thinking. Since we're able to resist the frameworks of new 
+technology through carefully selective design, we should be able to purposefully 
+embed different values into technology.
+
+[SCENE 9: THE VISION FORWARD]
+
+FUTURUS:
+[Enthusiastically]
+Now we're talking! This is exactly how Afrofuturist people think. By imagining 
+and building technologies that embody certain values rather than oppressive ones, 
+we can build a better future.
+
+VISUAL: Montage of positive technology applications - renewable energy, 
+accessible design, community tools
+
+HISTORIA:
+[Cautiously optimistic]
+I agree. However, we must learn from history's lessons. Every technical solution 
+has created new problems of its own. We need to develop a more ethical imagination 
+to build a future worth living.
+
+[Shows historical documents]
+
+The ability to anticipate problems and their consequences might be what allows us 
+to keep innovating ethically.
+
+[SCENE 10: THE SYNTHESIS]
+
+VISUAL: All four characters standing, camera slowly circles the table
+
+MUSIC: Builds to a thoughtful, powerful crescendo
+
+SENI:
+[Addressing each character in turn]
+This brings me to the synthesis of all your ideas.
+
+TEXT OVERLAY: "The Synthesis"
+
+SENI:
+Techne has taught me that technology isn't just a tool, but something that shapes 
+us as we shape it. Historia has allowed me to see into technology to examine the 
+political and power structures embedded inside. Futurus has reminded me that we're 
+not helpless - we can guide the path to innovation through imagination and design.
+
+TECHNE:
+And what will you do with this synthesis?
+
+SENI:
+[Determined]
+I'll incorporate this into my engineering process by advocating for more deliberate 
+and well-thought development. I'll make sure to include diverse voices and consider 
+long-term consequences - even the problems created by my solutions.
+
+VISUAL: Show diverse team of engineers collaborating
+
+SENI:
+I'll resist the idea that innovation always needs to accelerate, and I'll work on 
+embedding different values into the technology I build.
+
+FUTURUS:
+[Warmly]
+I love that idea. You sound hopeful for the future and what you're going to change, 
+but not claiming you can solve everything.
+
+SENI:
+[Nodding]
+No, because this conversation has given me a critical lens, not a final answer. 
+Progress is something we must create through imagination.
+
+HISTORIA:
+So what you're saying is that technological progress is only progress when it 
+emerges from ethical planning and acknowledges its vast consequences.
+
+TECHNE:
+[With a slight smile]
+Interesting. I expect technology will still enframe your intentions, however.
+
+SENI:
+I accept that challenge by questioning assumptions and remembering that whatever 
+I build will shape the future of humanity and the way people think and innovate.
+
+[SCENE 11: CLOSING]
+
+FUTURUS:
+[Standing]
+Perhaps the real progress is the wisdom we develop to guide innovation toward a 
+better future.
+
+SENI:
+[Final line, looking at camera]
+Correct. Wisdom begins by asking better questions - questions I'll carry far 
+beyond this library.
+
+VISUAL: The four characters gather their materials. Camera slowly pulls back 
+showing the library in its entirety, then fades to black
+
+TEXT OVERLAY: "What questions will you ask?"
+
+[END CREDITS]
+
+TEXT OVERLAY: 
+"Works Cited"
+[Credits scroll with academic citations]
+
+Amnesty International. "Amnesty International Report 2022/23: The State of the 
+World's Human Rights." Amnesty International, 27 Mar. 2023.
+
+Brooker, Charlie. Black Mirror. 2011, episode "Nosedive."
+
+Carr, Nicholas. "Is Google Making Us Stupid?" The Atlantic, July 2008.
+
+Eshun, Kodwo. "Further Considerations on Afrofuturism." CR: The New Centennial 
+Review, vol. 3, no. 2, 2003, pp. 287–302.
+
+Greenhouse, Steven. "We Must Start Preparing the US Workforce for the Effects of 
+AI – Now." The Guardian, 29 Feb. 2024.
+
+Harari, Yuval Noah. "Why Technology Favors Tyranny." The Atlantic, 30 Aug. 2018.
+
+Hazell, Peter. "Agriculture and the Environment." Environment and Development 
+Economics, vol. 6, no. 4, 2001, pp. 516–521.
+
+Huxley, Aldous. Brave New World. HarperCollins, 1932.
+
+Lynch, William T. "Engineering Practice and Engineering Ethics." Science and 
+Engineering Ethics, vol. 3, no. 3, 1997, pp. 331-344.
+
+National Archives. "The Atomic Bombing of Hiroshima and Nagasaki." National 
+Archives Museum, 26 Aug. 2020.
+
+Szeman, Imre. "Culture and Globalization, Or, the Humanities in Ruins." CR: The 
+New Centennial Review, vol. 3, no. 2, 2003, pp. 91–115.
+
+Winner, Langdon. "Do Artifacts Have Politics?" Daedalus, vol. 109, no. 1, 1980, 
+pp. 121–136.
+
+=====================================================================
+ADDITIONAL PRODUCTION NOTES:
+
+VISUAL STYLE SUGGESTIONS:
+- Use animated characters or live actors based on production resources
+- Incorporate relevant imagery and B-roll footage for each topic discussed
+- Text overlays should be clear, readable, and emphasize key concepts
+- Transitions should reflect the dialogue's progression from conflict to synthesis
+
+PACING:
+- Allow natural pauses for reflection on complex ideas
+- Use visual storytelling during longer monologues
+- Keep energy high during debates, contemplative during synthesis
+
+MUSIC & SOUND:
+- Background music should enhance but not overpower dialogue
+- Use subtle sound effects to mark scene transitions
+- Consider silence during pivotal moments for dramatic effect
+
+ACCESSIBILITY:
+- Include closed captions/subtitles
+- Ensure text overlays are readable (high contrast, appropriate size)
+- Consider audio descriptions for visual elements
+
+=====================================================================
